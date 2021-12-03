@@ -1,0 +1,9 @@
+{
+    "0":{
+        "number_of_photos" : 0,
+        "number_of_faces" : 0,
+        "max_id" : 0,
+        "number_of_empty_ids" : 0,
+        "empty_ids" : []
+    }
+}

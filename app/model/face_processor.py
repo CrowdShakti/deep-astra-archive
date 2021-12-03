@@ -15,4 +15,8 @@
 from pydantic import BaseModel
 
 class Face(BaseModel):
+    """
+        encoding : array
+        name : string
+    """
     pass
